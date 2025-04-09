@@ -2,7 +2,7 @@
 
 The user interface that consumes this API is located in the following repository:
 
-👉 [Frontend Repository - Pokédex App])(https://github.com/EvelinRodriguezSmeding/Pokedex)
+👉 [Frontend Repository - Pokédex App](https://github.com/EvelinRodriguezSmeding/Pokedex)
 
 
 ## Deploy JSON Server to Vercel
